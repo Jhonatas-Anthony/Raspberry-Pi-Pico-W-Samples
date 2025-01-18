@@ -11,3 +11,6 @@
     - README.md
     - VERSIONING.md
 
+### [0.1.1] - 2025-01-18 ```Jhonatas-Anthony``` - jhonatasanthony6@gmail.com
+
+- Correção no LICENSE
